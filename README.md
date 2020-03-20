@@ -21,6 +21,7 @@ Euler method appoximation of curve through slope/vector field
 
 **Prerequisites**: An expression in Y1 that computes SLOPE. Use `A` as a subsitute for Y.
 Example: a circular slope field expression would be `-X/A`
+Set your mode to `DEGREES`
 
 **Params**: Initial X and Y coordinates
 
