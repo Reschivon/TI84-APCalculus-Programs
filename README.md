@@ -13,7 +13,7 @@ Have a Ti-83 or something else? Open the files as text and remove the last two a
 
 ## Install
 Get the corresponding computer software for your calc. For the TI84CE it is Ti Connect Ce.
-Plug in your calculator and simply import the program. There is no crap or setup when it comes to Texas Instruments
+Plug in your calculator and simply import the *.8xp files. There is no crap or setup when it comes to Texas Instruments
 
 ## Program Descriptions
 ### EULER
