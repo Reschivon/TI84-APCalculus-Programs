@@ -90,6 +90,7 @@ Approximates Integral via Midpoint Riemann summation
 Approximates Integral via Trapezoidal Riemann summation
 
 **Prerequisites**: An expression whose integral is regular
+
 **Params**: L is for left bound; R is for right bound; N is rectangles to subdivide into
 
 
