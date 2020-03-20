@@ -1,5 +1,5 @@
-![Drag Racing](Capture 1.png)
-![Drag Racing](Capture 2.png)
+![Drag Racing](Capture1.png)
+![Drag Racing](Capture2.png)
 
 # APCalculus Programs
 Archive of some useful programs written in TI-Basic for the TI-84 Plus CE
